@@ -37,4 +37,4 @@ A hands-on, self-contained project to learn and master MySQL using a demo Employ
   ```
 
 ## 🧠 Why this project?
-This repo is designed to be a "code-along" experience. Open the `.sql` files to read the comments and explanations, then run them to see the result on real data!
+This repo is designed to be "code-along" experience. Open the `.sql` files to read the comments and explanations, then run them to see the result on real data!
